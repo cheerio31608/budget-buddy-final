@@ -173,8 +173,7 @@ H2 환경에서 다음 시나리오를 검증했습니다.
 
 ## 문서 및 시각화
 
-- [Budget Buddy 포트폴리오 문서](Budget-Buddy-Portfolio-Notion.md)
-- [Notion 포트폴리오 페이지](https://app.notion.com/p/3ca6f800cbc28103bb65c9181ee0aaab?pvs=204)
+- [Notion 페이지](https://app.notion.com/p/Budget-Buddy-3ca6f800cbc2805b828af7895705219b?source=copy_link)
 
 ## 관리자 데모
 
